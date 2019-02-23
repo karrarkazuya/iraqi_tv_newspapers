@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "name": "AlSumaria",
+    "email": "contactus@alsumaria.tv",
+    "phone_1": "9647901666600",
+    "phone_2": "9647901800300",
+    "phone_3": "9647901123123",
+    "facebook": "https://www.facebook.com/AlsumariaChannel ",
+    "twitter": "alsumariatv",
+    "youtube": "https://www.youtube.com/channel/UCWhdSvXarykqCL4fqS3rm1Q/feed ",
+    "rss": "https://www.alsumaria.tv/Rss ",
+    "link": "https://www.alsumaria.tv/ "
+  },
+  {
+    "id": 2,
+    "name": "rudaw",
+    "email": "omar.ali@rudaw.net",
+    "phone_1": "07505300002",
+    "facebook": "https://www.facebook.com/RudawArabi ",
+    "twitter": "rudaw_arabic ",
+    "youtube": "https://www.youtube.com/channel/UCBqO0WsS8SMzntZdc07jINA ",
+    "rss": "http://www.rudaw.net/arabic/rss-categories ",
+    "link": "http://www.rudaw.net "
+  },
+  {
+    "id": 3,
+    "name": "Shafaq News",
+    "email": "news@shafaaq.com",
+    "phone_1": "9647705380321",
+    "phone_2": "905318353327",
+    "facebook": "https://www.facebook.com/shafaaq.news ",
+    "twitter": "shafaaq ",
+    "youtube": "https://www.youtube.com/user/shafaqfoundation ",
+    "rss": "http://www.shafaaq.com/ar/Ar_Rss ",
+    "link": "http://www.shafaaq.com "
+  },
+  {
+    "id": 4,
+    "name": "nahrain",
+    "link": "https://nahrain.com "
+  },
+  {
+    "id": 5,
+    "name": "Hatha Alyoum",
+    "email": "info@hathalyoum.net",
+    "phone_1": "07707562396",
+    "facebook": "https://www.facebook.com/hathalyoum.official ",
+    "twitter": "hathalyoum",
+    "youtube": "Hathalyoum",
+    "rss": "https://hathalyoum.net/feed ",
+    "link": "https://hathalyoum.net/ "
+  },
+  {
+    "id": 6,
+    "name": "kitabat ",
+    "email": "kitabat@kitabat.com",
+    "facebook": "https://www.facebook.com/kitabatweb/ ",
+    "twitter": "kitabatiq ",
+    "youtube": "https://m.youtube.com/channel/UCLcXp5eKZRdFIbT0-DucPSg ",
+    "rss": "https://kitabat.com/feed/ ",
+    "link": "https://kitabat.com "
+  },
+  {
+    "id": 7,
+    "name": "awene",
+    "email": "//info@awene.com",
+    "phone_1": "07725426129",
+    "facebook": "https://www.facebook.com/awenenews/ ",
+    "twitter": "https://twitter.com/AweneNews ",
+    "link": "http://www.awene.com/ "
+  },
+  {
+    "id": 8,
+    "name": "buratha news ",
+    "email": "burathanews@gmail.com",
+    "facebook": "https://www.facebook.com/burathanews ",
+    "twitter": "https://twitter.com/burathanews ",
+    "rss": "http://burathanews.com/rss.php ",
+    "link": "http://burathanews.com "
+  },
+  {
+    "id": 9,
+    "name": "iraqi news",
+    "email": "ask@iraqinews.com",
+    "phone_1": "97316198858",
+    "facebook": "https://www.facebook.com/IraqNews ",
+    "twitter": "https://www.twitter.com/IraqiNews_com ",
+    "link": "https://www.iraqinews.com "
+  },
+  {
+    "id": 10,
+    "name": "Azzman",
+    "email": "writers@azzaman.com",
+    "facebook": "https://www.facebook.com/azzamannewspaper/ ",
+    "twitter": "https://twitter.com/azzamannews ",
+    "rss": "https://www.azzaman.com/?feed=rss2",
+    "link": "https://www.azzaman.com "
+  },
+  {
+    "id": 11,
+    "name": "almada",
+    "email": "fakhri.k@almadapaper.net",
+    "phone_1": "07702799999",
+    "facebook": "https://www.facebook.com/almada.foundation/ ",
+    "twitter": "almada_group ",
+    "youtube": "https://www.youtube.com/channel/UC8lmDlVHRxetgOj_EEW6yCA ",
+    "rss": "https://almadapaper.net/Rss/ ",
+    "link": "https://almadapaper.net "
+  },
+  {
+    "id": 12,
+    "name": "aliraqnews",
+    "email": "aliraq_4@hotmail.de",
+    "phone_1": "9647813328723",
+    "facebook": "http://www.facebook.com/iraqnewsnetwork2001 ",
+    "twitter": "http://twitter.com/aliraqnews ",
+    "youtube": "http://www.youtube.com/aliraqnews ",
+    "rss": "http://aliraqnews.com/feed/ ",
+    "link": "http://aliraqnews.com "
+  },
+  {
+    "id": 13,
+    "name": "new sabah",
+    "email": "info@newsabah.com",
+    "facebook": "https://www.facebook.com/newsabah ",
+    "twitter": "https://twitter.com/AssabahAljadeed ",
+    "youtube": "https://www.youtube.com/channel/UCUT7xPNEGvpB1gEYMM0d9sQ ",
+    "rss": "http://www.newsabah.com/feed ",
+    "link": "http://newsabah.com "
+  },
+  {
+    "id": 14,
+    "name": "sbeiy",
+    "email": "info@sbeiy.krd",
+    "phone_1": "07714997777",
+    "facebook": "https://www.facebook.com/sbeiy.krd/ ",
+    "twitter": "https://twitter.com/Sbeiy1 ",
+    "youtube": "https://www.youtube.com/channel/UC_1NYITH0-cnD9VhFnm3AmA ",
+    "link": "https://www.sbeiy.com/ "
+  },
+  {
+    "id": 15,
+    "name": "imn",
+    "email": "agent@imn.iq",
+    "facebook": "https://www.facebook.com/iraqianewshd/ ",
+    "twitter": "iraqmedianet",
+    "youtube": "https://www.youtube.com/channel/UC5h9SokuzgNiebEOzU2BHoA ",
+    "link": "http://imn.iq/ "
+  },
+  {
+    "id": 16,
+    "name": "National Iraqi News Agency",
+    "email": "subscription@ninanews.com ",
+    "phone_1": "07705352514",
+    "link": "http://ninanews.com/ "
+  },
+  {
+    "id": 17,
+    "name": "Afaq TV",
+    "email": "info@afaq.tv",
+    "phone_1": "07706274341",
+    "facebook": "https://www.facebook.com/AfaqiraqTV/ ",
+    "twitter": "Afaqiraqtv ",
+    "youtube": "https://www.youtube.com/channel/UC5-qyrvc3JSAPX-8ZWBX2DA ",
+    "rss": "http://afaq.tv/rss.xml ",
+    "link": "https://afaq.tv "
+  },
+  {
+    "id": 18,
+    "name": "INDEPENDENT PRESS AGENCY",
+    "email": "ipa_news@yahoo.com",
+    "phone_1": "009647809291304",
+    "phone_2": "009647809291305",
+    "phone_3": "009647706805702",
+    "facebook": "https://www.facebook.com/mustaqila ",
+    "twitter": "mustaqila_com ",
+    "youtube": "https://www.mustaqila.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/# ",
+    "rss": "https://www.mustaqila.com/feed/ ",
+    "link": "https://www.mustaqila.com "
+  },
+  {
+    "id": 19,
+    "name": "almashriq news",
+    "email": "info@almashriqnews.com",
+    "phone_1": " ",
+    "facebook": "https://www.facebook.com/AlmashriqNews/ ",
+    "link": "http://www.almashriqnews.com "
+  },
+  {
+    "id": 20,
+    "name": "mangish",
+    "email": "aysar@mangish.com",
+    "facebook": "https://www.facebook.com/mangish ",
+    "twitter": "https://twitter.com/mangishnet ",
+    "link": "https://mangish.net "
+  },
+  {
+    "id": 21,
+    "name": "Iraqi Communist Party",
+    "email": "iraqicp@hotmail.com",
+    "facebook": "https://www.facebook.com/123611631029471 ",
+    "twitter": "iraqicp",
+    "youtube": "https://www.youtube.com/user/iraqicp/ ",
+    "link": "https://www.iraqicp.com "
+  },
+  {
+    "id": 22,
+    "name": "Attaakhi",
+    "email": "ahmedfaily@yahoo.com",
+    "phone_1": "07506151481",
+    "phone_2": "07901494306",
+    "phone_3": "07703941395",
+    "link": "http://www.altaakhipress.com "
+  },
+  {
+    "id": 23,
+    "name": "Al Dawaa",
+    "email": "adawaanews@yahoo.com",
+    "facebook": "https://www.facebook.com/JrydtAldwt/ ",
+    "link": "http://www.adawaanews.net/ "
+  },
+  {
+    "id": 24,
+    "name": "Al Iraq Al Youm",
+    "email": "iraqalyoum2006@yahoo.com",
+    "phone_1": "07901281019",
+    "phone_2": "07901358495",
+    "phone_3": "07700738862",
+    "phone_4": "07700671527",
+    "link": "http://www.iraqalyoum.net "
+  },
+  {
+    "id": 25,
+    "name": "sumer fm",
+    "email": "sumerfm@sumerfm.com",
+    "phone_1": "07901125125",
+    "phone_2": "07712301144",
+    "phone_3": "07901102740",
+    "phone_4": "07506869988",
+    "facebook": "http://www.facebook.com/SumerFM99.9 ",
+    "twitter": "SumerFM ",
+    "link": "http://www.sumerfm.com "
+  },
+  {
+    "id": 26,
+    "name": "alsharqiya",
+    "email": "programs@alsharqiya.com",
+    "facebook": "https://www.facebook.com/sharqiyatv/ ",
+    "twitter": "alsharqiyatv ",
+    "youtube": "https://www.youtube.com/channel/UC4wI0bNpRBauwbKgRaQyTVQ ",
+    "link": "https://www.alsharqiya.com/ "
+  },
+  {
+    "id": 27,
+    "name": "al baghdadiya",
+    "email": "Info@albaghdadiyagroup.com",
+    "facebook": "https://www.facebook.com/Albaghdadiyanews/ ",
+    "link": "http://albaghdadiyagroup.com/ "
+  },
+  {
+    "id": 28,
+    "name": "al rasheed",
+    "email": "info@alrasheedmedia.com",
+    "facebook": "https://www.facebook.com/alrasheedmedia/ ",
+    "twitter": "alrasheedmedia ",
+    "youtube": "https://youtube.com/alrasheedmedia ",
+    "rss": "https://www.t.me/alrasheedmedia ",
+    "link": "https://www.alrasheedmedia.com "
+  },
+  {
+    "id": 29,
+    "name": "al forat",
+    "email": "info@alforattv.net",
+    "facebook": "http://alforattv.net ",
+    "twitter": "alforat_news ",
+    "youtube": "https://www.youtube.com/forattube ",
+    "link": "http://alforattv.net "
+  },
+  {
+    "id": 30,
+    "name": "karbala-tv",
+    "email": "info@karbala-tv.net",
+    "facebook": "https://www.facebook.com/Karbala.Satellite.Channel/ ",
+    "twitter": "karbala_tv ",
+    "youtube": "https://www.youtube.com/user/karbalatvchannel ",
+    "link": "https://www.karbala-tv.net "
+  },
+  {
+    "id": 31,
+    "name": "non",
+    "facebook": "http://www.facebook.com/non14news ",
+    "rss": "http://www.non14.net/services/rss/ ",
+    "link": "http://www.non14.net "
+  },
+  {
+    "id": 32,
+    "name": "nasiriyah",
+    "email": "admin@nasiriyah.org",
+    "rss": "http://www.nasiriyah.org/ara/syndication/all ",
+    "link": "http://www.nasiriyah.org "
+  }
+]
